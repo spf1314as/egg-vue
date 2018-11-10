@@ -1,0 +1,32 @@
+{
+  "env":{
+    "node": {
+      "presets": [["env", {
+        "modules": false,
+        "targets": {
+          "node": "current"
+        }
+      }],"es2015","stage-3"],
+      "plugins": [
+        "transform-runtime",
+        "transform-object-rest-spread",
+        "syntax-dynamic-import"
+      ]
+    },
+    "web": {
+      "presets": [["env", {
+        "modules": false,
+        "targets": {
+          "browsers": ["last 2 versions", "safari >= 7"]
+        }
+      }],"es2015","stage-3"],
+      "plugins": [
+        "transform-runtime",
+        "transform-object-rest-spread",
+        "syntax-dynamic-import",
+        "transform-object-assign"
+      ]
+    }
+  },
+  "comments":false
+}

@@ -1,0 +1,17 @@
+
+@function ununit($width){
+  @return $width/1px;
+}
+
+@function __vw($width){
+  @if unitless($width) {
+    @return #{$width/10.8 + 'vw'}
+  }
+  $width: ununit($width);
+  @return #{$width/10.8 + 'vw'}
+};
+%text-ellipsis{
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  overflow: hidden;
+}

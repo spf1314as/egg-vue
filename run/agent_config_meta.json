@@ -1,0 +1,391 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/k33spf/my-code/eggvue/config/config.default.js"
+  },
+  "view": {
+    "cache": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-view/config/config.local.js",
+    "root": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+      "runInNewContext": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "doctype": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/k33spf/my-code/eggvue/node_modules/egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "dir": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "encoding": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "env": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "level": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "dir": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "maxAge": "/Users/k33spf/my-code/eggvue/config/config.local.js",
+    "dynamic": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+  "middleware": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+  "cors": {
+    "origin": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "allowMethods": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "MaxAge": "/Users/k33spf/my-code/eggvue/config/config.default.js"
+  },
+  "mysql": {
+    "clients": {
+      "pc": {
+        "host": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "port": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "user": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "password": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "database": "/Users/k33spf/my-code/eggvue/config/config.default.js"
+      },
+      "mac": {
+        "host": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "port": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "user": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "password": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+        "database": "/Users/k33spf/my-code/eggvue/config/config.default.js"
+      }
+    },
+    "default": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "app": "/Users/k33spf/my-code/eggvue/config/config.default.js",
+    "agent": "/Users/k33spf/my-code/eggvue/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/k33spf/my-code/eggvue/config/config.local.js",
+    "protocolWhiteList": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/k33spf/my-code/eggvue/config/config.local.js",
+    "ignoreDirs": "/Users/k33spf/my-code/eggvue/config/config.local.js",
+    "fastReady": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/k33spf/my-code/eggvue/config/config.local.js",
+    "prefix": "/Users/k33spf/my-code/eggvue/node_modules/egg-logview/config/config.default.js",
+    "staticHost": "/Users/k33spf/my-code/eggvue/node_modules/egg-logview/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/k33spf/my-code/eggvue/node_modules/egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "webpack": {
+    "port": "/Users/k33spf/my-code/eggvue/node_modules/egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/Users/k33spf/my-code/eggvue/node_modules/egg-webpack/config/config.default.js",
+      "match": "/Users/k33spf/my-code/eggvue/node_modules/egg-webpack/config/config.default.js"
+    },
+    "webpackConfigList": "/Users/k33spf/my-code/eggvue/node_modules/egg-webpack/config/config.default.js"
+  },
+  "env": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "name": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "version": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "description": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "debug": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "clean": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "build": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "start": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "stop": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "dev": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "lint": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "fix": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "ii": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "element-ui": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "extend": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "moment": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "pm2": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vue": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@babel/core": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "@babel/plugin-proposal-class-properties": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "@babel/plugin-proposal-decorators": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "@babel/preset-env": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "@babel/preset-stage-3": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "autoprefixer": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-core": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-eslint": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-loader": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-polyfill": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-preset-env": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-preset-es2015": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-preset-stage-3": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "babel-runtime": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "css-loader": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "easywebpack-vue": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-logview": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "ip": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "sass-loader": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "style-loader": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "uglifyjs-webpack-plugin": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vconsole": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "vue-style-loader": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "webpack": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "url": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "license": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "webpack": {
+      "loaders": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "strict": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "depth": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "logging": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "port": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/k33spf/my-code/eggvue/node_modules/egg/config/config.default.js"
+}
