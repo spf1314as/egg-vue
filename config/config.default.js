@@ -48,31 +48,36 @@ module.exports = app => {
   // }
   // 配置数据库
   exports.mysql = {
-        clients: {
-           pc:{
-               host:'10.235.113.229',
-               port: '3306',
-               user: 'root',
-               password: 'shen128574',
-               database:'act',
-           },
-           mac:{
-               host:'localhost',
-               port: '3306',
-               user: 'root',
-               password: '0071314as',
-               database:'act',
-           }
-        },
-        default:{
-        },
+        // clients: {
+        //    pc:{
+        //        host:'10.235.113.229',
+        //        port: '3306',
+        //        user: 'root',
+        //        password: 'shen128574',
+        //        database:'act',
+        //    },
+        //    mac:{
+        //        host:'localhost',
+        //        port: '3306',
+        //        user: 'root',
+        //        password: '0071314as',
+        //        database:'act',
+        //    }
+        // },
+        // default:{
+        // },
+         host:'localhost',
+         port: '3306',
+         user: 'root',
+         password: '0071314as',
+         database:'act',
         app: true,
         agent: false,
     };
 
     const localIP = ip.address();
     const domainWhiteList = [];
-    [7003, 8000, 7004].forEach(port => {
+    [7003, 7008, 7004].forEach(port => {
         domainWhiteList.push(`http://localhost:${port}`);
         domainWhiteList.push(`http://127.0.0.1:${port}`);
         domainWhiteList.push(`http://${localIP}:${port}`);

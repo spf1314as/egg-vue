@@ -1,0 +1,26 @@
+{
+  "name": "egg-vue",
+  "script": "node dispatch",
+  "cwd":"./",
+  "args": "4",
+  "watch":["./app","./config"],
+  "ignore_watch": [
+    "node_modules",
+    "logs",
+    ".idea"
+  ],
+  "watch_options":{
+    "followSymlinks": false
+  },
+  "error_file":"./logs/app/app_err.log",
+  "out_file":"./logs/app/app_out.log",
+  "merge_logs": true,
+  "log_date_format": "YYYY-MM-DD HH-mm-ss",
+  "autorestart": true,
+  "env":{  // 正式环境参数
+    "EGG_SERVER_ENV": "prod"
+  },
+  "env_staging": {
+    "EGG_SERVER_ENV": "local"  // 环境参数，当前指定为staging
+  }
+}

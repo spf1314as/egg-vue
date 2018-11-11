@@ -4,9 +4,9 @@
   "description": "this is first eggvue",
   "scripts": {
     "debug": "egg-bin debug",
-    "clean": "easy clean",
+    "clean": "easy clean ./public/ && easy clean ./app/view/",
     "build": "easy build prod",
-    "start": "egg-scripts start -p=7001 --daemon --title=egg-vue-ssr",
+    "start": "egg-scripts start --daemon --port=7003 --env=prod --title=egg-vue-ssr",
     "stop": "egg-scripts stop --title=egg-vue-ssr",
     "dev": "egg-bin dev",
     "lint": "eslint .",

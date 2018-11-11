@@ -7,15 +7,15 @@ const os = require('os')
 
 module.exports = app => {
   const exports = {
-    // cluster:{
-    //   listen: {
-    //     port: 7003,
-    //     hostname: "127.0.0.1",
-    //     worker: os.cpus().length,
-    //     baseDir: process.cwd(),
-    //     framework: "egg",
-    //   }
-    // }
+    cluster:{
+      listen: {
+        port: "7003",
+        // hostname: "127.0.0.1",
+        // worker: os.cpus().length,
+        // baseDir: process.cwd(),
+        // framework: "egg",
+      }
+    }
     //   mysql: {
     //     client: {
     //       host:'localhost',
