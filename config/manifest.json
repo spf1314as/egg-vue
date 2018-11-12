@@ -1,10 +1,10 @@
 {
   "css/0.22aa9b94.css": "/public/css/0.22aa9b94.css",
-  "js/chunk/0.364d4653.js": "/public/js/chunk/0.364d4653.js",
-  "app.css": "/public/css/app.b9a48473.css",
-  "app.js": "/public/js/app.3edc5226.js",
+  "js/chunk/0.ecb0ee1b.js": "/public/js/chunk/0.ecb0ee1b.js",
+  "app.css": "/public/css/app.0df53ff8.css",
+  "app.js": "/public/js/app.abe22b0f.js",
   "css/2.03cd5845.css": "/public/css/2.03cd5845.css",
-  "js/chunk/2.c35cc573.js": "/public/js/chunk/2.c35cc573.js",
+  "js/chunk/2.4c967246.js": "/public/js/chunk/2.4c967246.js",
   "img/double.vue": "/public/img/three-bg.bf0943af.png",
   "js/vendor.54f0cbc4.js": "/public/js/vendor.54f0cbc4.js",
   "vendor.js": "/public/js/vendor.54f0cbc4.js",
@@ -12,10 +12,10 @@
     "app.js": {
       "js": [
         "/public/js/vendor.54f0cbc4.js",
-        "/public/js/app.3edc5226.js"
+        "/public/js/app.abe22b0f.js"
       ],
       "css": [
-        "/public/css/app.b9a48473.css"
+        "/public/css/app.0df53ff8.css"
       ]
     }
   },

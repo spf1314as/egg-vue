@@ -50,6 +50,7 @@ module.exports = {
 
    },
   done() {
-
+      console.log(process.env)
+      console.log("build finish")
   }
 };

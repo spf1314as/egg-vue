@@ -1,7 +1,7 @@
 module.exports = {
     apps : [{
         name      : 'egg-vue',
-        script    : 'node dispatch',
+        script    : 'dispatch',
         "cwd":"./",
         "args":"",
         "watch": ["app","config"],
@@ -20,12 +20,10 @@ module.exports = {
         "log_date_format": "YYYY-MM-DD HH-mm-ss",
         "autorestart": true,
         "env":{   // egg 的端口号只能通过 startcluster 传进去
-            "EGG_NODE_ENV": "prod",
-            "port": 8000
+            "NODE_ENV": "production",
         },
         "env_stage":{
-            "EGG_NODE_ENV":"local",
-            "port": 8080
+            "NODE_ENV":"local",
         }
     }],
 

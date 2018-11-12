@@ -6,6 +6,7 @@
     "debug": "egg-bin debug",
     "clean": "easy clean ./public/ && easy clean ./app/view/",
     "build": "easy build prod",
+    "ansys": "easy build -s",
     "start": "egg-scripts start --daemon --port=7003 --env=prod --title=egg-vue-ssr",
     "stop": "egg-scripts stop --title=egg-vue-ssr",
     "dev": "egg-bin dev",
@@ -71,7 +72,8 @@
     "uglifyjs-webpack-plugin": "^2.0.1",
     "vconsole": "^3.0.0",
     "vue-style-loader": "^4.1.2",
-    "webpack": "^4.24.0"
+    "webpack": "^4.24.0",
+    "webpack-bundle-analyzer": "^3.0.3"
   },
   "engines": {
     "node": ">=8.0.0"

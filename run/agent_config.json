@@ -10,13 +10,13 @@
       "domainWhiteList": [
         "http://localhost:7003",
         "http://127.0.0.1:7003",
-        "http://192.168.1.5:7003",
+        "http://10.235.224.86:7003",
         "http://localhost:7008",
         "http://127.0.0.1:7008",
-        "http://192.168.1.5:7008",
+        "http://10.235.224.86:7008",
         "http://localhost:7004",
         "http://127.0.0.1:7004",
-        "http://192.168.1.5:7004"
+        "http://10.235.224.86:7004"
       ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
@@ -201,7 +201,7 @@
       "description": "this is first eggvue",
       "scripts": {
         "debug": "egg-bin debug",
-        "clean": "easy clean",
+        "clean": "easy clean ./public/ && easy clean ./app/view/",
         "build": "easy build prod",
         "start": "egg-scripts start --daemon --port=7003 --env=prod --title=egg-vue-ssr",
         "stop": "egg-scripts stop --title=egg-vue-ssr",
